@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5854FE5222F2272700B67700 /* GistPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5854FE5122F2272700B67700 /* GistPost.swift */; };
+		5814BDF722F2BB0100EAD50F /* GistPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5814BDF622F2BB0100EAD50F /* GistPost.swift */; };
 		589B792022F1A93A0055DB5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589B791F22F1A93A0055DB5F /* AppDelegate.swift */; };
 		589B792222F1A93A0055DB5F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589B792122F1A93A0055DB5F /* SceneDelegate.swift */; };
 		589B792722F1A93A0055DB5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 589B792522F1A93A0055DB5F /* Main.storyboard */; };
@@ -21,8 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5814BDF422F2B92400EAD50F /* GistPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GistPost.swift; sourceTree = "<group>"; };
-		5854FE5122F2272700B67700 /* GistPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GistPost.swift; path = "../../../../../../../../System/Volumes/Data/Users/arkadiygrigoryanc/Develop/Tasks/Stepik/Академия яндекса/HistsApp/HistsApp/GistPost.swift"; sourceTree = "<group>"; };
+		5814BDF622F2BB0100EAD50F /* GistPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GistPost.swift; sourceTree = "<group>"; };
 		589B791C22F1A93A0055DB5F /* HistsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HistsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		589B791F22F1A93A0055DB5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		589B792122F1A93A0055DB5F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -52,7 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				589B793522F1A9CF0055DB5F /* Gist.swift */,
-				5814BDF422F2B92400EAD50F /* GistPost.swift */,
+				5814BDF622F2BB0100EAD50F /* GistPost.swift */,
 				589B793722F1A9FC0055DB5F /* Owner.swift */,
 				589B793922F1AA150055DB5F /* GistFile.swift */,
 			);
@@ -91,7 +90,6 @@
 				589B793322F1A9AF0055DB5F /* NetworkManager.swift */,
 				5814BDF522F2B92E00EAD50F /* Controllers */,
 				5814BDF322F2B92300EAD50F /* Models */,
-				5854FE5122F2272700B67700 /* GistPost.swift */,
 				589B792522F1A93A0055DB5F /* Main.storyboard */,
 				589B792822F1A93C0055DB5F /* Assets.xcassets */,
 				589B792A22F1A93C0055DB5F /* LaunchScreen.storyboard */,
@@ -177,7 +175,7 @@
 				589B793822F1A9FC0055DB5F /* Owner.swift in Sources */,
 				589B793422F1A9AF0055DB5F /* NetworkManager.swift in Sources */,
 				589B792022F1A93A0055DB5F /* AppDelegate.swift in Sources */,
-				5854FE5222F2272700B67700 /* GistPost.swift in Sources */,
+				5814BDF722F2BB0100EAD50F /* GistPost.swift in Sources */,
 				589B792222F1A93A0055DB5F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
